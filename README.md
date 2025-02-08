@@ -1,10 +1,6 @@
-## Hi there 👋
+## Hi there 
 
 🤣👉🤡
-😎🤏🕶😭
-🐢💈
-🍄😋⚰︎
-👊👴👊
 
 <!--
 **l549349545/l549349545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
